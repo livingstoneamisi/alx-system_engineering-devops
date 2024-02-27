@@ -53,6 +53,7 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 `mandatory`
 
 ![App Screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240227T051611Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=702e4df55d39a07bad380538f4e2c711f8af2b03d06564d08e4d623d06ab4e31)
+
 Requirements:
 
 - The regular expression must match `School`
@@ -81,6 +82,7 @@ $
 `mandatory`
 
 ![App Screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240227T051611Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b137124c9406ee8f66fdb08793ac93cacc3ee8d7020f93e5daad6513325b1839)
+
 Requirements:
 
 - Find the regular expression that will match the above cases
@@ -96,6 +98,7 @@ Requirements:
 `mandatory`
 
 ![App Screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240227T051611Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=71b04533d9a9bb956923dc58d6373547c6b32468bb2ffe47c0bf32fe3bbf530e)
+
 Requirements:
 
 - Find the regular expression that will match the above cases
@@ -111,6 +114,7 @@ Requirements:
 `mandatory`
 
 ![App Screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240227T051611Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ce72037793a695c755b063e29d41e2afe0849b92356aa54c62daf2719ba236b3)
+
 Requirements:
 
 - Find the regular expression that will match the above cases
@@ -126,6 +130,7 @@ Requirements:
 `mandatory`
 
 ![App Screenshot](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240227T051611Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=05ffe97d156349637d7af250728676c9d20236eacbfc03c9a1748b2aed0ddb1f)
+
 Requirements:
 
 - Find the regular expression that will match the above cases
