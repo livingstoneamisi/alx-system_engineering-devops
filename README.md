@@ -9,4 +9,6 @@
 - 0x07-networking_basics
 - 0x08-networking_basics_2
 - 0x09. Web infrastructure design
-- 
+- 0x10-https_ssl
+- 0x11-what_happens_when_your_type_google_...
+- 0x12-web_stack_debugging_2
