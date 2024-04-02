@@ -12,3 +12,7 @@
 - 0x10-https_ssl
 - 0x11-what_happens_when_your_type_google_...
 - 0x12-web_stack_debugging_2
+- Ox13-firewall
+- Ox14-mysql
+- 0x15-api
+- 0x16-api_advanced
